@@ -9,3 +9,5 @@ WpfWindow("Micro Focus MyFlight Sample").WpfEdit("passengerName").Set DataTable(
 WpfWindow("Micro Focus MyFlight Sample").WpfButton("ORDER").Click @@ hightlight id_;_1933453352_;_script infofile_;_ZIP::ssf13.xml_;_
 WpfWindow("Micro Focus MyFlight Sample_2").WpfButton("NEW SEARCH").Click @@ hightlight id_;_2125047560_;_script infofile_;_ZIP::ssf14.xml_;_
 
+'End
+
